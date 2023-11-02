@@ -1,3 +1,7 @@
 ## Simay Kartal's IE423 Page
 
-[IE423 Project Part 1 - Report](https://github.com/BU-IE-423/fall-23-simaykartal/blob/581dbf7b0ab5a0d45874b51868ee319cdacfb11c/REPORT%20IE423%20Project%20Part%201.html)
+[IE 423 Project Part 1 Report](REPORT IE423 Project Part 1.html) 
+
+[IE 423 Project Part 1 Code - ipynb](IE 423 PROJECT PART 1 - CODES.ipynb) 
+
+[IE 423 Project Part 1 Code -  HTML](IE 423 PROJECT PART 1 - CODES.html)
